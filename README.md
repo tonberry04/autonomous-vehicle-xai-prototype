@@ -35,7 +35,7 @@ python Interaction_Application.py
 
 ## AI Assistance
 - **Code & Debugging (Gemini Pro 3.1):** Used to scaffold the initial Tkinter class structure, troubleshoot image-loading logic, and debug edge cases. I wrote the core interactive logic manually, adapted the timer and scenario definitions to match Assignment 1, and manually tested every branch to verify clean state resets. The Tkinter class was further modified to match the specifications required for this project, including fixed window sizing to prevent misaligned backgrounds.
-- **Visual Assets (Gemini Pro 3.1):** Used to generate the background road-scenario PNGs for the application and storyboards. I reviewed each image to ensure it matched its corresponding hazard prompt.
+- **Visual Assets (Gemini Pro 3.1):** Used to generate the background road-scenario PNGs for the application (the storyboards themselves are screenshots of the running application, which partially display these images). I reviewed each image to ensure it matched its corresponding hazard prompt.
 - **Documentation:** Gemini was used to help structure and format this README, which I reviewed and edited for accuracy. 
 
 ## Additional Files
